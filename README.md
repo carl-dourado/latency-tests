@@ -42,7 +42,6 @@ python latency_tests.py --csv latencia.csv
 
 ## o que eu treinei
 
-- argumentos no terminal com `argparse`
 - execucao de comando do sistema com `subprocess`
 - leitura da latencia retornada pelo `ping`
 - calculo de media, p95 e jitter
