@@ -4,7 +4,7 @@ Esse repo nasceu como um complemento do `ping-lab`.
 
 No `ping-lab` eu queria testar alguns alvos. Aqui eu queria repetir o teste varias vezes e guardar os numeros para comparar depois, sem ficar no "parece lento".
 
-E um script pequeno, mas ja mostra coisa util: quantas tentativas passaram, media, p95, maximo e uma ideia simples de jitter.
+é um script pequeno, mas ja mostra coisa util: quantas tentativas passaram, media, p95, maximo e uma ideia simples de jitter.
 
 ## o que tem aqui
 
