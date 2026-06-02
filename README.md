@@ -1,6 +1,6 @@
 # latency-tests
 
-Esse repo nasceu como um complemento do `ping-lab`.
+- esse repo nasceu como um complemento do `ping-lab`.
 
 No `ping-lab` eu queria testar alguns alvos. Aqui eu queria repetir o teste varias vezes e guardar os numeros para comparar depois, sem ficar no "parece lento".
 
